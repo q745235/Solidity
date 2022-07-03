@@ -1,5 +1,5 @@
 # Solidity
-1.DutchAuction: 荷蘭式拍賣
+1.DutchAuction: 荷蘭式拍賣 
 2.Surprise: 盲盒
 3.WhiteAuction: 白名單拍賣
 4.lottery: 抽獎
