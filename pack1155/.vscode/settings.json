@@ -1,0 +1,4 @@
+{
+  "solidity.compileUsingLocalVersion": "v0.6.12+commit",
+  "solidity.compileUsingRemoteVersion": "v0.6.12+commit"
+}
